@@ -1,0 +1,36 @@
+.header{
+  background-color: #505050;
+  color: #ffffff;
+  text-align: center;
+}
+
+.container{
+  width: 60%;
+  margin-left: 20%;
+  margin-right: 20%
+}
+
+.image{
+  width: 50%;
+  text-align: center;
+}
+
+.image img{
+  height: 15%;
+  width: 15%;
+}
+
+.work{
+  margin-top: -19%;
+  float: right;
+  width: 50%;
+  text-align: center;
+  font-size: 14px;
+}
+
+ul{
+  text-align: left;
+}
+ h4{
+   font-variant: small-caps;
+ }
